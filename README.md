@@ -3,11 +3,11 @@
 CityGuard Vision is an AI-powered road safety system designed to detect traffic accidents in real time using CCTV or live video feeds. The system utilizes deep learning and computer vision models to identify accidents and automatically trigger emergency alerts to nearby hospitals and traffic infrastructure.
 Beyond accident detection, we are actively expanding CityGuard Vision into a broader urban safety intelligence platform.
 We are currently developing additional modules that extend its capabilities to:
-• Kidnapping and forced-movement detection — identifying abnormal human behavior patterns such as dragging, sudden forceful movement, or distress-like interactions using temporal motion analysis.
-• Suspicious activity monitoring — detecting unusual crowd behavior, aggressive motion clusters, or rapid group convergence that may indicate violence or public safety threats.
-• Hit-and-run tracking — tracking vehicles involved in incidents across multiple frames and potentially across multiple cameras.
-• Abandoned object detection — identifying unattended bags or suspicious stationary objects in public areas.
-• Smart traffic violation detection — detecting wrong-way driving, illegal lane changes, or signal violations using vision-based rule enforcement.
+- Kidnapping and forced-movement detection : identifying abnormal human behavior patterns such as dragging, sudden forceful movement, or distress-like interactions using temporal motion analysis.
+- Suspicious activity monitoring : detecting unusual crowd behavior, aggressive motion clusters, or rapid group convergence that may indicate violence or public safety threats.
+- Hit-and-run tracking : tracking vehicles involved in incidents across multiple frames and potentially across multiple cameras.
+- Abandoned object detection : identifying unattended bags or suspicious stationary objects in public areas.
+- Smart traffic violation detection : detecting wrong-way driving, illegal lane changes, or signal violations using vision-based rule enforcement.
 Our long-term goal is to transform CityGuard Vision from a single-purpose accident detection system into a comprehensive AI-driven urban surveillance and response platform that enhances public safety across smart cities.
 ---
 
